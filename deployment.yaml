@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ai-app
-        image: YOUR_DOCKERHUB/ai-app:latest
+        image: rohit23cu/ai-app:latest
         ports:
         - containerPort: 5000
 
